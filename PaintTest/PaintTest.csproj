@@ -252,6 +252,7 @@
     <Compile Include="Assets\InkPainter\Script\Extenision\GameObjectExtension.cs" />
     <Compile Include="Assets\InkPainter\Script\Util\SceneViewCamera.cs" />
     <Compile Include="Assets\XBW\CubeMove.cs" />
+    <Compile Include="Assets\XBW\MyMousePainter.cs" />
     <Compile Include="Assets\XBW\XBW.cs" />
   </ItemGroup>
   <ItemGroup>

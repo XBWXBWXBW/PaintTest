@@ -431,18 +431,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 2146211807}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1532b32c9929ea141974a1e47a80bb2c, type: 3}
+  m_Script: {fileID: 11500000, guid: bccdcafca68e70a418aaba4af04f2a0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   brush:
-    brushTexture: {fileID: 2800000, guid: b8702b5a8624a114f82a6d09bc3ce746, type: 3}
+    brushTexture: {fileID: 2800000, guid: f198c1c995ef08c478009b65a48af828, type: 3}
     brushNormalTexture: {fileID: 0}
     brushHeightTexture: {fileID: 0}
-    brushScale: 0.025
+    brushScale: 0.019
     rotateAngle: 0
     brushNormalBlend: 0
     brushHeightBlend: 0
-    brushColor: {r: 0.33088237, g: 0.33088237, b: 0.33088237, a: 1}
+    brushColor: {r: 0, g: 0, b: 0, a: 0}
     colorBlendType: 0
     normalBlendType: 0
     heightBlendType: 0
